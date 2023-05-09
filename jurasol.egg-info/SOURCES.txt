@@ -1,0 +1,9 @@
+.gitignore
+setup.py
+jurasol/__init__.py
+jurasol/rv_curve_module.py
+jurasol.egg-info/PKG-INFO
+jurasol.egg-info/SOURCES.txt
+jurasol.egg-info/dependency_links.txt
+jurasol.egg-info/requires.txt
+jurasol.egg-info/top_level.txt
